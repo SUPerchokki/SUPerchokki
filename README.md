@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Exposto.
 
-- 🌱 Estudando Front-End, Javascript.
+- 🌱 Estudando Desenvolvimento.
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
