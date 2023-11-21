@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Exposto.
 
-- 🌱 Estudando Desenvolvimento.
+- 🌱 Estudando Machine learning e Logica Fuzzy.
 - 😄 Pronomes: Ele/Dele
 
 
